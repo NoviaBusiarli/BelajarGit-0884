@@ -2,6 +2,9 @@
 
 <?php
 
+/*contoh komentar*/
+/*---------------*/
+
 	require_once('lib/DBClass.php');
 	require_once('lib/m_siswa.php');
 	require_once('lib/age.php');
